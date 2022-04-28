@@ -1,11 +1,9 @@
-# FrontEndProjectJoshuaPowell
+This project consists of a landing page and a reviews page. Plain HTML, CSS, and JS were used.
 
-Hello,
+To view the pages simply clone this repo then open index.html / reviews.html into your browser.
 
-Apologies, I was unable to correctly apply the masonry design to my 'work' page, though it is apparently working on the 'testimony' page.
+This project was done as a solution to a end of the week project during my fullstack course at code factory.
 
-Please also note that the links on my 'home' page to specific div ids didn't exactly work either.
+Please view the assignment.pdf to view the expected results.
 
-Thanks for your time and consideration,
-
-Josh
+Cheers!
