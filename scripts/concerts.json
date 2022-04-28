@@ -1,0 +1,38 @@
+concerts = `[
+    {
+        "desc": "",
+        "img": "img/concerts/01.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/02.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/03.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/04.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/05.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/06.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/07.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/08.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/concerts/09.jpg"
+    }   
+    ]`

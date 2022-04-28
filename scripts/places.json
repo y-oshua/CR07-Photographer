@@ -1,0 +1,34 @@
+places = `[
+    {
+        "desc": "",
+        "img": "img/places/01.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/places/02.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/places/03.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/places/04.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/places/05.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/places/06.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/places/07.jpg"
+    },
+    {
+        "desc": "",
+        "img": "img/places/08.jpg"
+    }   
+    ]`

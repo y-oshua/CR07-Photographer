@@ -1,0 +1,54 @@
+people = `[
+    {
+        "desc": "Bill Hader Black and White",
+        "img": "img/people/01.jpg"
+    },
+    {
+        "desc": "Bill Hader Color",
+        "img": "img/people/02.jpg"
+    },
+    {
+        "desc": "Jessica Ursula Black and White",
+        "img": "img/people/03.jpg"
+    },
+    {
+        "desc": "Jessica Ursula Color",
+        "img": "img/people/04.jpg"
+    },
+    {
+        "desc": "Nina Simon Black and White",
+        "img": "img/people/05.jpg"
+    },
+    {
+        "desc": "Nina Simon Color",
+        "img": "img/people/06.jpg"
+    },
+    {
+        "desc": "Nina Simon Color 2",
+        "img": "img/people/07.jpg"
+    },
+    {
+        "desc": "Danny Trejo Black and White",
+        "img": "img/people/08.jpg"
+    },
+    {
+        "desc": "Danny Trejo Color",
+        "img": "img/people/09.jpg"
+    },
+    {
+        "desc": "Emily Revolver Black and White",
+        "img": "img/people/10.jpg"
+    },
+    {
+        "desc": "Emily Revolver Color",
+        "img": "img/people/11.jpg"
+    },
+    {
+        "desc": "Danny McBride Black and White",
+        "img": "img/people/12.jpg"
+    },
+    {
+        "desc": "Danny McBride Color",
+        "img": "img/people/13.jpg"
+    } 
+    ]`
