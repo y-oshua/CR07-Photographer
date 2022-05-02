@@ -1,8 +1,6 @@
-This project consists of a landing page and a reviews page. Plain HTML, CSS, and JS were used.
+To view the pages simply clone this repo then open home.html into your browser to get started.
 
-To view the pages simply clone this repo then open index.html / reviews.html into your browser.
-
-This project was done as a solution to a end of the week project during my fullstack course at code factory.
+This project was done as the solution for the final project of the front end course at code factory.
 
 Please view the assignment.pdf to view the expected results.
 
